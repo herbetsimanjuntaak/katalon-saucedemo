@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCP_002 - Verify system display button remove after add selected product to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e94c91e-b1bb-4221-9f5d-77d5066820a7</testCaseGuid>
+</TestCaseEntity>

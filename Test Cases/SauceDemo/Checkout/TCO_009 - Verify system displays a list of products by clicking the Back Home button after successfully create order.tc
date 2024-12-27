@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCO_009 - Verify system displays a list of products by clicking the Back Home button after successfully create order</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>214d05ea-394d-4a7b-a321-08c8fb81662a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCO_004 - Verify system display error message when checkout with empty postal code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5269f123-e3ca-4cd5-9726-1891b85e9dc8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCP_004 - Verify system reduces the number of items added each time a user deletes a product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe322540-045a-422e-be2b-902f6cb52106</testCaseGuid>
+</TestCaseEntity>

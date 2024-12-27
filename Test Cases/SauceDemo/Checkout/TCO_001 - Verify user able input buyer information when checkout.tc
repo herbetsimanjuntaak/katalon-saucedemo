@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCO_001 - Verify user able input buyer information when checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d12d1b3-11d3-4874-ae83-5cd246fcb7a7</testCaseGuid>
+</TestCaseEntity>

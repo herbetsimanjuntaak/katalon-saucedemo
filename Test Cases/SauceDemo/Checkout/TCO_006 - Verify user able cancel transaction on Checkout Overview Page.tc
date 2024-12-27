@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCO_006 - Verify user able cancel transaction on Checkout Overview Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c2e33ab-491c-4cac-a3f6-a30d1e95e1eb</testCaseGuid>
+</TestCaseEntity>

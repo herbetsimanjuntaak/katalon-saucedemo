@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCO_002 - Verify system display error message when checkout with empty first name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a57ec5dd-577c-4282-b877-7a9ad4be6cc7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCO_007 - Verify user able cancel transaction on buyer data page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1dc527da-905b-487e-9349-85a581033501</testCaseGuid>
+</TestCaseEntity>

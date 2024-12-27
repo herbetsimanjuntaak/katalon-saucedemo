@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCO_008 - Verify system display message when order successfully created</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ae2b7c0-f65b-4aa3-b890-0fba4913cc32</testCaseGuid>
+</TestCaseEntity>

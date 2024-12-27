@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCO_003 - Verify system display error message when checkout with empty last name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>84291ad3-3a50-45b5-a6ec-f9211e61a04c</testCaseGuid>
+</TestCaseEntity>

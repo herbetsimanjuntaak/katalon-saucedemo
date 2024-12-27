@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCP_005 - Sort product base on product name - ascending</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>29180bda-f2f8-46fa-82d4-ece79a5c0b29</testCaseGuid>
+</TestCaseEntity>

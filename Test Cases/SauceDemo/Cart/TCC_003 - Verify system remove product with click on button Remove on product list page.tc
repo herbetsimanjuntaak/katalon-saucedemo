@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCC_003 - Verify system remove product with click on button Remove on product list page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e15e8f3-4edc-45b3-bc42-c4e564c9ff3a</testCaseGuid>
+</TestCaseEntity>

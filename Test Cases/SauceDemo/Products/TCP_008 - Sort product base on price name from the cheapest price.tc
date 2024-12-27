@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCP_008 - Sort product base on price name from the cheapest price</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a4dd49c-214b-4edd-9d69-1f6542e5d753</testCaseGuid>
+</TestCaseEntity>

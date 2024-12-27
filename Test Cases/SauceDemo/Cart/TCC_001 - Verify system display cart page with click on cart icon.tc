@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCC_001 - Verify system display cart page with click on cart icon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f24d1d0-bbf6-425a-aff9-7a31ca23b809</testCaseGuid>
+</TestCaseEntity>

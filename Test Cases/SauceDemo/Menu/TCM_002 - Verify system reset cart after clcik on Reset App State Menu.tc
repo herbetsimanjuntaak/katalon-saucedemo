@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM_002 - Verify system reset cart after clcik on Reset App State Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49102a8f-3932-4167-97f3-388d9a8ed95c</testCaseGuid>
+</TestCaseEntity>

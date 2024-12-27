@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCL_002 - Login with locked user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9812a42-9e0d-49d0-bfbb-0c04e38ab235</testCaseGuid>
+</TestCaseEntity>

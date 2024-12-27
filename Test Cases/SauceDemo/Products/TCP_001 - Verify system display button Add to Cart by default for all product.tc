@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCP_001 - Verify system display button Add to Cart by default for all product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61453f58-dbef-48ed-9f29-83f4d7e0ef3e</testCaseGuid>
+</TestCaseEntity>

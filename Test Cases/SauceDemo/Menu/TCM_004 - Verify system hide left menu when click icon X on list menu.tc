@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM_004 - Verify system hide left menu when click icon X on list menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eacb1f4b-a984-4822-80a2-28f59142cde7</testCaseGuid>
+</TestCaseEntity>

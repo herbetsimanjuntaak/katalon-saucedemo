@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCP_007 - Sort product base on product price from the highest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>afd3e9d2-ffc6-4a3c-9cee-b34a9a019e9c</testCaseGuid>
+</TestCaseEntity>

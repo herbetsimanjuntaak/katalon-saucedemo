@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCC_005 - Verify system remove product with click on button Remove on cart page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7bbda92-9ec8-4919-856b-07dc3c000db2</testCaseGuid>
+</TestCaseEntity>

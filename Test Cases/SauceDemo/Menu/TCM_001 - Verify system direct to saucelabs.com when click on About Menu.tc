@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM_001 - Verify system direct to saucelabs.com when click on About Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>506d1dd7-60eb-4229-8b7b-3e2bfe5b076e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCC_004 - Verify system clears all items from the cart by clicking on Reset App State</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26a96bf6-934b-4bbb-bb07-7b84c042ec9f</testCaseGuid>
+</TestCaseEntity>

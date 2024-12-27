@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCC_002 - Verify system display product list with click on button Continue shopping</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b550f6b-b3fe-4058-865d-738441ca30e6</testCaseGuid>
+</TestCaseEntity>

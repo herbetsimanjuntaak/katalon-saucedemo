@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCP_003 - Verify system increases the number of items added each time a user adds a product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4203aaf3-cc73-44fe-a5c1-b7b30778b6ba</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCO_005 - Verify system displays detailed purchase information before completing the transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bb13d4c-0917-410c-a581-a59525deae49</testCaseGuid>
+</TestCaseEntity>

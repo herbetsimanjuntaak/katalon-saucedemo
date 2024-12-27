@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM_003 - Verify system direct to product list after clcik on All Items Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98abd998-2b9b-45a9-9182-0d01a5c6ebf6</testCaseGuid>
+</TestCaseEntity>
